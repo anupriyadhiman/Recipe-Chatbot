@@ -39,8 +39,7 @@ Please refer to the points stated herein below which may help to understand as t
      7.	What are the tools used?
 
 
-I have also explored doing the code for audio note for answering the query but its not assembeled in the given code since it wasnt asked.
-However I can send it once we get approval from your side to assemble that as well. We can show it to you on viva day.
+
 
 
 
